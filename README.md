@@ -1,2 +1,2 @@
 # leetCode
-Learn algorithms from letCode
+Learn algorithms from leetCode
