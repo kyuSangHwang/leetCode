@@ -13,8 +13,7 @@ var isValid = function(s) {
             case '(': check.push(')'); break;
             case '{': check.push('}'); break;
             case '[': check.push(']'); break;
-            default: 
-            if (stringChartAt !== check.pop()) return false;
+            default: if (stringChartAt !== check.pop()) return false;
         }
     }
     
